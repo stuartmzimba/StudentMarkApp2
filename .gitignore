@@ -24,7 +24,6 @@ hs_err_pid*
 replay_pid*
 
 # --- NetBeans Specific Exclusions ---
-nbproject/
 nbproject/private/
 nbbuild/
 nbdist/
