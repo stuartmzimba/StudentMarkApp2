@@ -24,6 +24,7 @@ hs_err_pid*
 replay_pid*
 
 # --- NetBeans Specific Exclusions ---
+nbproject/
 nbproject/private/
 nbbuild/
 nbdist/
@@ -35,6 +36,6 @@ nbproject/genfiles.properties
 build/
 dist/
 
-# KEEP your actual source code:
-# src/ = your Java code
-# web/ = your HTML/CSS/JS etc.
+# KEEP your actual source code (do NOT ignore these)
+# src/  -> Java source
+# web/  -> HTML/CSS/JS, WEB-INF, etc.
